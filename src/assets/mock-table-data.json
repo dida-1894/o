@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "tactics": "DR",
+            "spiralForce": "空头持仓",
+            "ironForce": "多头平仓",
+            "beeForce": "空头持仓",
+            "PTAForce": "空头持仓",
+            "greensFroce": "空头持仓"
+        },
+        {
+            "tactics": "PAI",
+            "spiralForce": "空头持仓",
+            "ironForce": "多头平仓",
+            "beeForce": "空头持仓",
+            "PTAForce": "空头持仓",
+            "greensFroce": "空头持仓"
+        },
+        {
+            "tactics": "PMO",
+            "spiralForce": "空头持仓",
+            "ironForce": "多头平仓",
+            "beeForce": "空头持仓",
+            "PTAForce": "空头持仓",
+            "greensFroce": "空头持仓"
+        },
+        {
+            "tactics": "RVI",
+            "spiralForce": "空头持仓",
+            "ironForce": "多头平仓",
+            "beeForce": "空头持仓",
+            "PTAForce": "空头持仓",
+            "greensFroce": "空头持仓"
+        },
+        {
+            "tactics": "HA",
+            "spiralForce": "空头持仓",
+            "ironForce": "多头平仓",
+            "beeForce": "空头持仓",
+            "PTAForce": "空头持仓",
+            "greensFroce": "空头持仓"
+        }
+    ]
+}
